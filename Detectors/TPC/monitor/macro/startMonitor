@@ -1,6 +1,0 @@
-#!/bin/bash
-
-# ===| command building and execution |=========================================
-cmd="o2-tpc-monitor $@"
-echo "running: $cmd"
-eval $cmd

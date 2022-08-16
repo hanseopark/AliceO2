@@ -1,3 +1,0 @@
-CheckOptions:
-  - key: CheckPathRegex
-    value: '.*/O2/.*'
